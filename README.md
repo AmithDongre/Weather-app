@@ -30,6 +30,12 @@ A modern and responsive weather application built using JavaScript that displays
 
 ---
 
+## Live demo
+
+ https://amithdongre.github.io/Weather-app/
+
+ ---
+
 ## ⚙️ Setup Instructions
 
 1. Clone the repository or download the files

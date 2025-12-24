@@ -1,4 +1,4 @@
-const apiKey = "YOUR_API_KEY_HERE";
+const apiKey = "f5b94f15b4e3165048d2cdee26fa3dd7";
 
 const cityInput = document.getElementById("cityInput");
 const searchBtn = document.getElementById("searchBtn");
@@ -124,4 +124,5 @@ themeToggle.addEventListener("click", () => {
     themeToggle.textContent = isLight ? "🌞" : "🌙";
     localStorage.setItem("theme", isLight ? "light" : "dark");
 });
+
 

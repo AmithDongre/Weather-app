@@ -33,6 +33,7 @@ A modern and responsive weather application built using JavaScript that displays
 ## Live demo
 
  https://amithdongre.github.io/Weather-app/
+ 
 ⚠️ This project uses a public OpenWeather API key for demo purposes.
 
  ---
